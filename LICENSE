@@ -1,6 +1,39 @@
 BSD 3-Clause License
 
-Copyright (c) 2023, Wolfgang Klenk
+Bosch BME680 BSEC library:
+
+   The binaries and includes for the core BME680 BSEC library are licensed 
+   under the software license agreement and terms described here:
+
+   https://www.bosch-sensortec.com/software-tools/software/bsec/
+   
+   Copyright (c) Bosch Sensortec GmbH
+
+Arduino wrapper library for BSEC to simplify integration into compatible platforms:
+
+   The Arduino wrapper library for BSEC, including example source code, is
+   licensed under the following BSD3 license.
+
+   Source: https://github.com/boschsensortec/BSEC-Arduino-library
+
+   Copyright (c) 2021 Bosch Sensortec GmbH. All rights reserved.   
+
+Grashopper example code:
+
+   Source: https://github.com/kriswiner/CMWX1ZZABZ
+   
+   Copyright  (C) Kris Winer
+   
+Source code in THIS repository:
+
+   The sourcecode in this repository is mainly consisting of code snippets
+   from examples provided by the Arduino wrapper library for BSEC and examples
+   of how to use the Grashopper development board to connect to The Things Network
+   and send messages using LoRaWAN.
+
+   The sourcecode in this library is licensed under the following BSD3 license.   
+
+   Copyright (c) 2023 Wolfgang Klenk (wolfgang.klenk@gmail.com)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
